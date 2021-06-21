@@ -1,0 +1,22 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  justify-content: flex-end;
+  span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-weight: 300;
+    font-size: 1rem;
+    i {
+      padding-left: 0.5rem;
+      padding-right: 0.5rem;
+    }
+    strong {
+      padding-left: 0.5rem;
+      padding-right: 0.5rem;
+    }
+  }
+}

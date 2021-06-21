@@ -1,0 +1,27 @@
+.container {
+  width: 15rem;
+  .card-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    form {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+
+  .group-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .button-create {
+      margin-top: 1rem;
+      margin-right: 1rem;
+    }
+    .button-cancel {
+      margin-top: 1rem;
+    }
+  }
+}

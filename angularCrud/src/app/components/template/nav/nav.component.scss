@@ -1,0 +1,21 @@
+.nav-container {
+  .sidenav {
+    width: 15rem;
+    .nav-list {
+      a {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        padding-left: 0.2rem;
+        i {
+          margin-right: 0.5rem;
+        }
+      }
+    }
+  }
+
+  .content {
+    padding: 1rem;
+    background-color: white;
+  }
+}

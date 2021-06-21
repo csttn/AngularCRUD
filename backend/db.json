@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "A - Caneta BIC Preta",
+      "price": 1000
+    },
+    {
+      "id": 2,
+      "name": "B - Macbook Pro",
+      "price": 15000
+    },
+    {
+      "id": 4,
+      "name": "D - RTX3090",
+      "price": 9000
+    },
+    {
+      "id": 5,
+      "name": "F - Monitor 144HZ",
+      "price": "20003"
+    },
+    {
+      "id": 637068.0727344007,
+      "name": "Notebook Gamer",
+      "price": "22222"
+    },
+    {
+      "id": 614538.2545896865,
+      "name": "Testee",
+      "price": "2222222222"
+    },
+    {
+      "id": 146584.04723020951,
+      "name": "Pulseira",
+      "price": "33333333333333333"
+    }
+  ]
+}

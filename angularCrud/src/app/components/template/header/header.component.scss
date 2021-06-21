@@ -1,0 +1,28 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 2rem;
+  span {
+    a {
+      text-decoration: none;
+      color: white;
+
+      .logo-header {
+        width: 8rem;
+      }
+    }
+  }
+
+  .title-group {
+    padding-left: 3rem;
+    a {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      i {
+        padding-right: 1rem;
+      }
+    }
+  }
+}
